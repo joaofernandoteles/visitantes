@@ -286,3 +286,16 @@ footer {
   align-items: center;
   justify-content: center;
 }
+
+.SEU_GRUPO {
+  height: 200px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #000
+}
+.SEU_GRUPO img {
+  height: 121px;
+}
